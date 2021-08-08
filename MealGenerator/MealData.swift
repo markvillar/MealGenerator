@@ -44,7 +44,7 @@ extension Meal {
     
 }
 
-struct Ingredient: Decodable {
+struct Ingredient: Decodable, Hashable {
     let name: String
     let measure: String
 }
