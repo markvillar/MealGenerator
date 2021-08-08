@@ -13,6 +13,7 @@
 		4DF135E426BFE6DA00F8D5AB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DF135E326BFE6DA00F8D5AB /* Preview Assets.xcassets */; };
 		4DF135EC26BFE6FC00F8D5AB /* MealData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF135EB26BFE6FC00F8D5AB /* MealData.swift */; };
 		4DF135EE26BFEA7600F8D5AB /* MealGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF135ED26BFEA7600F8D5AB /* MealGenerator.swift */; };
+		4DF135F026BFEE2000F8D5AB /* AsyncImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF135EF26BFEE2000F8D5AB /* AsyncImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4DF135E526BFE6DA00F8D5AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4DF135EB26BFE6FC00F8D5AB /* MealData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealData.swift; sourceTree = "<group>"; };
 		4DF135ED26BFEA7600F8D5AB /* MealGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealGenerator.swift; sourceTree = "<group>"; };
+		4DF135EF26BFEE2000F8D5AB /* AsyncImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4DF135E226BFE6DA00F8D5AB /* Preview Content */,
 				4DF135EB26BFE6FC00F8D5AB /* MealData.swift */,
 				4DF135ED26BFEA7600F8D5AB /* MealGenerator.swift */,
+				4DF135EF26BFEE2000F8D5AB /* AsyncImageView.swift */,
 			);
 			path = MealGenerator;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				4DF135EE26BFEA7600F8D5AB /* MealGenerator.swift in Sources */,
 				4DF135DF26BFE6D600F8D5AB /* ContentView.swift in Sources */,
 				4DF135DD26BFE6D600F8D5AB /* MealGeneratorApp.swift in Sources */,
+				4DF135F026BFEE2000F8D5AB /* AsyncImageView.swift in Sources */,
 				4DF135EC26BFE6FC00F8D5AB /* MealData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
